@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=muCommander&amp;ivyXmlPath=res%2Fivy%2Fivy.xml&amp;confs=runtime%2Ctest%2Ccompile%2Ctools&amp;ivySettingsPath=res%2Fivy%2Fivysettings.xml&amp;loadSettingsOnDemand=false&amp;ivyUserDir=%2FUsers%2FDominik%2F.ivy2&amp;propertyFiles=&amp;acceptedTypes=jar%2Cbundle%2Cejb%2Cmaven-plugin&amp;alphaOrder=false&amp;resolveInWorkspace=false&amp;transitiveResolve=true&amp;readOSGiMetadata=false&amp;retrievedClasspath=false"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
